@@ -1,4 +1,4 @@
-# spotify_player_clone
+# Spotify Player Clone
 
 Recriação do Reprodutor de musicas do Spotify usando Flutter
 
